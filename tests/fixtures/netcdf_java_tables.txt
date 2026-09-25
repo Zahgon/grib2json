@@ -1,0 +1,2652 @@
+### codeTable3_1
+0	Latitude_Longitude
+1	Rotated_Latitude_Longitude
+2	Stretched_Latitude_Longitude
+3	Rotated_and_Stretched_Latitude_Longitude
+4	Unknown projection4
+5	Unknown projection5
+6	Unknown projection6
+7	Unknown projection7
+8	Unknown projection8
+9	Unknown projection9
+10	Mercator
+11	Unknown projection11
+12	Unknown projection12
+13	Unknown projection13
+14	Unknown projection14
+15	Unknown projection15
+16	Unknown projection16
+17	Unknown projection17
+18	Unknown projection18
+19	Unknown projection19
+20	Polar_Stereographic
+21	Unknown projection21
+22	Unknown projection22
+23	Unknown projection23
+24	Unknown projection24
+25	Unknown projection25
+26	Unknown projection26
+27	Unknown projection27
+28	Unknown projection28
+29	Unknown projection29
+30	Lambert_Conformal
+31	Albers_Equal_Area
+32	Unknown projection32
+33	Unknown projection33
+34	Unknown projection34
+35	Unknown projection35
+36	Unknown projection36
+37	Unknown projection37
+38	Unknown projection38
+39	Unknown projection39
+40	Gaussian_Latitude_Longitude
+41	Rotated_Gaussian_Latitude_Longitude
+42	Stretched_Gaussian Latitude_Longitude
+43	Rotated_and_Stretched_Gaussian_Latitude_Longitude
+44	Unknown projection44
+45	Unknown projection45
+46	Unknown projection46
+47	Unknown projection47
+48	Unknown projection48
+49	Unknown projection49
+50	Spherical_Harmonic_Coefficients
+51	Rotated_Spherical_Harmonic_Coefficients
+52	Stretched_Spherical_Harmonic_Coefficients
+53	Rotated_and_Stretched_Spherical_Harmonic_Coefficients
+54	Unknown projection54
+55	Unknown projection55
+56	Unknown projection56
+57	Unknown projection57
+58	Unknown projection58
+59	Unknown projection59
+60	Unknown projection60
+61	Unknown projection61
+62	Unknown projection62
+63	Unknown projection63
+64	Unknown projection64
+65	Unknown projection65
+66	Unknown projection66
+67	Unknown projection67
+68	Unknown projection68
+69	Unknown projection69
+70	Unknown projection70
+71	Unknown projection71
+72	Unknown projection72
+73	Unknown projection73
+74	Unknown projection74
+75	Unknown projection75
+76	Unknown projection76
+77	Unknown projection77
+78	Unknown projection78
+79	Unknown projection79
+80	Unknown projection80
+81	Unknown projection81
+82	Unknown projection82
+83	Unknown projection83
+84	Unknown projection84
+85	Unknown projection85
+86	Unknown projection86
+87	Unknown projection87
+88	Unknown projection88
+89	Unknown projection89
+90	Space_View_Perspective_or_Orthographic
+91	Unknown projection91
+92	Unknown projection92
+93	Unknown projection93
+94	Unknown projection94
+95	Unknown projection95
+96	Unknown projection96
+97	Unknown projection97
+98	Unknown projection98
+99	Unknown projection99
+100	Triangular_Grid_Based_on_an_Icosahedron
+101	Unknown projection101
+102	Unknown projection102
+103	Unknown projection103
+104	Unknown projection104
+105	Unknown projection105
+106	Unknown projection106
+107	Unknown projection107
+108	Unknown projection108
+109	Unknown projection109
+110	Equatorial_Azimuthal_Equidistant
+111	Unknown projection111
+112	Unknown projection112
+113	Unknown projection113
+114	Unknown projection114
+115	Unknown projection115
+116	Unknown projection116
+117	Unknown projection117
+118	Unknown projection118
+119	Unknown projection119
+120	Azimuth_Range
+121	Unknown projection121
+122	Unknown projection122
+123	Unknown projection123
+124	Unknown projection124
+125	Unknown projection125
+126	Unknown projection126
+127	Unknown projection127
+128	Unknown projection128
+129	Unknown projection129
+130	Unknown projection130
+131	Unknown projection131
+132	Unknown projection132
+133	Unknown projection133
+134	Unknown projection134
+135	Unknown projection135
+136	Unknown projection136
+137	Unknown projection137
+138	Unknown projection138
+139	Unknown projection139
+140	Unknown projection140
+141	Unknown projection141
+142	Unknown projection142
+143	Unknown projection143
+144	Unknown projection144
+145	Unknown projection145
+146	Unknown projection146
+147	Unknown projection147
+148	Unknown projection148
+149	Unknown projection149
+150	Unknown projection150
+151	Unknown projection151
+152	Unknown projection152
+153	Unknown projection153
+154	Unknown projection154
+155	Unknown projection155
+156	Unknown projection156
+157	Unknown projection157
+158	Unknown projection158
+159	Unknown projection159
+160	Unknown projection160
+161	Unknown projection161
+162	Unknown projection162
+163	Unknown projection163
+164	Unknown projection164
+165	Unknown projection165
+166	Unknown projection166
+167	Unknown projection167
+168	Unknown projection168
+169	Unknown projection169
+170	Unknown projection170
+171	Unknown projection171
+172	Unknown projection172
+173	Unknown projection173
+174	Unknown projection174
+175	Unknown projection175
+176	Unknown projection176
+177	Unknown projection177
+178	Unknown projection178
+179	Unknown projection179
+180	Unknown projection180
+181	Unknown projection181
+182	Unknown projection182
+183	Unknown projection183
+184	Unknown projection184
+185	Unknown projection185
+186	Unknown projection186
+187	Unknown projection187
+188	Unknown projection188
+189	Unknown projection189
+190	Unknown projection190
+191	Unknown projection191
+192	Unknown projection192
+193	Unknown projection193
+194	Unknown projection194
+195	Unknown projection195
+196	Unknown projection196
+197	Unknown projection197
+198	Unknown projection198
+199	Unknown projection199
+200	Unknown projection200
+201	Unknown projection201
+202	Unknown projection202
+203	Unknown projection203
+204	Curvilinear_Orthogonal
+205	Unknown projection205
+206	Unknown projection206
+207	Unknown projection207
+208	Unknown projection208
+209	Unknown projection209
+210	Unknown projection210
+211	Unknown projection211
+212	Unknown projection212
+213	Unknown projection213
+214	Unknown projection214
+215	Unknown projection215
+216	Unknown projection216
+217	Unknown projection217
+218	Unknown projection218
+219	Unknown projection219
+220	Unknown projection220
+221	Unknown projection221
+222	Unknown projection222
+223	Unknown projection223
+224	Unknown projection224
+225	Unknown projection225
+226	Unknown projection226
+227	Unknown projection227
+228	Unknown projection228
+229	Unknown projection229
+230	Unknown projection230
+231	Unknown projection231
+232	Unknown projection232
+233	Unknown projection233
+234	Unknown projection234
+235	Unknown projection235
+236	Unknown projection236
+237	Unknown projection237
+238	Unknown projection238
+239	Unknown projection239
+240	Unknown projection240
+241	Unknown projection241
+242	Unknown projection242
+243	Unknown projection243
+244	Unknown projection244
+245	Unknown projection245
+246	Unknown projection246
+247	Unknown projection247
+248	Unknown projection248
+249	Unknown projection249
+250	Unknown projection250
+251	Unknown projection251
+252	Unknown projection252
+253	Unknown projection253
+254	Unknown projection254
+255	Unknown projection255
+### codeTable3_2
+0	Earth spherical with radius = 6,367,470 m
+1	Earth spherical with radius specified by producer in m
+2	Earth oblate spheroid with major axis = 6,378,160 m and minor axis = 6,356,775 m
+3	Earth oblate spheroid with axes specified by producer in m
+4	Earth oblate spheroid with major axis = 6,378,137.0 m and minor axis = 6,356,752.314 m
+5	Earth represent by WGS84
+6	Earth spherical with radius of 6,371,229.0 m
+7	Earth oblate spheroid with axes specified by producer in m
+8	Earth spherical with radius of 6,371,200.0 m, represent by WGS84
+9	Unknown Earth Shape
+10	Unknown Earth Shape
+11	Unknown Earth Shape
+12	Unknown Earth Shape
+13	Unknown Earth Shape
+14	Unknown Earth Shape
+15	Unknown Earth Shape
+16	Unknown Earth Shape
+17	Unknown Earth Shape
+18	Unknown Earth Shape
+19	Unknown Earth Shape
+20	Unknown Earth Shape
+21	Unknown Earth Shape
+22	Unknown Earth Shape
+23	Unknown Earth Shape
+24	Unknown Earth Shape
+25	Unknown Earth Shape
+26	Unknown Earth Shape
+27	Unknown Earth Shape
+28	Unknown Earth Shape
+29	Unknown Earth Shape
+30	Unknown Earth Shape
+31	Unknown Earth Shape
+32	Unknown Earth Shape
+33	Unknown Earth Shape
+34	Unknown Earth Shape
+35	Unknown Earth Shape
+36	Unknown Earth Shape
+37	Unknown Earth Shape
+38	Unknown Earth Shape
+39	Unknown Earth Shape
+40	Unknown Earth Shape
+41	Unknown Earth Shape
+42	Unknown Earth Shape
+43	Unknown Earth Shape
+44	Unknown Earth Shape
+45	Unknown Earth Shape
+46	Unknown Earth Shape
+47	Unknown Earth Shape
+48	Unknown Earth Shape
+49	Unknown Earth Shape
+50	Unknown Earth Shape
+51	Unknown Earth Shape
+52	Unknown Earth Shape
+53	Unknown Earth Shape
+54	Unknown Earth Shape
+55	Unknown Earth Shape
+56	Unknown Earth Shape
+57	Unknown Earth Shape
+58	Unknown Earth Shape
+59	Unknown Earth Shape
+60	Unknown Earth Shape
+61	Unknown Earth Shape
+62	Unknown Earth Shape
+63	Unknown Earth Shape
+64	Unknown Earth Shape
+65	Unknown Earth Shape
+66	Unknown Earth Shape
+67	Unknown Earth Shape
+68	Unknown Earth Shape
+69	Unknown Earth Shape
+70	Unknown Earth Shape
+71	Unknown Earth Shape
+72	Unknown Earth Shape
+73	Unknown Earth Shape
+74	Unknown Earth Shape
+75	Unknown Earth Shape
+76	Unknown Earth Shape
+77	Unknown Earth Shape
+78	Unknown Earth Shape
+79	Unknown Earth Shape
+80	Unknown Earth Shape
+81	Unknown Earth Shape
+82	Unknown Earth Shape
+83	Unknown Earth Shape
+84	Unknown Earth Shape
+85	Unknown Earth Shape
+86	Unknown Earth Shape
+87	Unknown Earth Shape
+88	Unknown Earth Shape
+89	Unknown Earth Shape
+90	Unknown Earth Shape
+91	Unknown Earth Shape
+92	Unknown Earth Shape
+93	Unknown Earth Shape
+94	Unknown Earth Shape
+95	Unknown Earth Shape
+96	Unknown Earth Shape
+97	Unknown Earth Shape
+98	Unknown Earth Shape
+99	Unknown Earth Shape
+100	Unknown Earth Shape
+101	Unknown Earth Shape
+102	Unknown Earth Shape
+103	Unknown Earth Shape
+104	Unknown Earth Shape
+105	Unknown Earth Shape
+106	Unknown Earth Shape
+107	Unknown Earth Shape
+108	Unknown Earth Shape
+109	Unknown Earth Shape
+110	Unknown Earth Shape
+111	Unknown Earth Shape
+112	Unknown Earth Shape
+113	Unknown Earth Shape
+114	Unknown Earth Shape
+115	Unknown Earth Shape
+116	Unknown Earth Shape
+117	Unknown Earth Shape
+118	Unknown Earth Shape
+119	Unknown Earth Shape
+120	Unknown Earth Shape
+121	Unknown Earth Shape
+122	Unknown Earth Shape
+123	Unknown Earth Shape
+124	Unknown Earth Shape
+125	Unknown Earth Shape
+126	Unknown Earth Shape
+127	Unknown Earth Shape
+128	Unknown Earth Shape
+129	Unknown Earth Shape
+130	Unknown Earth Shape
+131	Unknown Earth Shape
+132	Unknown Earth Shape
+133	Unknown Earth Shape
+134	Unknown Earth Shape
+135	Unknown Earth Shape
+136	Unknown Earth Shape
+137	Unknown Earth Shape
+138	Unknown Earth Shape
+139	Unknown Earth Shape
+140	Unknown Earth Shape
+141	Unknown Earth Shape
+142	Unknown Earth Shape
+143	Unknown Earth Shape
+144	Unknown Earth Shape
+145	Unknown Earth Shape
+146	Unknown Earth Shape
+147	Unknown Earth Shape
+148	Unknown Earth Shape
+149	Unknown Earth Shape
+150	Unknown Earth Shape
+151	Unknown Earth Shape
+152	Unknown Earth Shape
+153	Unknown Earth Shape
+154	Unknown Earth Shape
+155	Unknown Earth Shape
+156	Unknown Earth Shape
+157	Unknown Earth Shape
+158	Unknown Earth Shape
+159	Unknown Earth Shape
+160	Unknown Earth Shape
+161	Unknown Earth Shape
+162	Unknown Earth Shape
+163	Unknown Earth Shape
+164	Unknown Earth Shape
+165	Unknown Earth Shape
+166	Unknown Earth Shape
+167	Unknown Earth Shape
+168	Unknown Earth Shape
+169	Unknown Earth Shape
+170	Unknown Earth Shape
+171	Unknown Earth Shape
+172	Unknown Earth Shape
+173	Unknown Earth Shape
+174	Unknown Earth Shape
+175	Unknown Earth Shape
+176	Unknown Earth Shape
+177	Unknown Earth Shape
+178	Unknown Earth Shape
+179	Unknown Earth Shape
+180	Unknown Earth Shape
+181	Unknown Earth Shape
+182	Unknown Earth Shape
+183	Unknown Earth Shape
+184	Unknown Earth Shape
+185	Unknown Earth Shape
+186	Unknown Earth Shape
+187	Unknown Earth Shape
+188	Unknown Earth Shape
+189	Unknown Earth Shape
+190	Unknown Earth Shape
+191	Unknown Earth Shape
+192	Unknown Earth Shape
+193	Unknown Earth Shape
+194	Unknown Earth Shape
+195	Unknown Earth Shape
+196	Unknown Earth Shape
+197	Unknown Earth Shape
+198	Unknown Earth Shape
+199	Unknown Earth Shape
+200	Unknown Earth Shape
+201	Unknown Earth Shape
+202	Unknown Earth Shape
+203	Unknown Earth Shape
+204	Unknown Earth Shape
+205	Unknown Earth Shape
+206	Unknown Earth Shape
+207	Unknown Earth Shape
+208	Unknown Earth Shape
+209	Unknown Earth Shape
+210	Unknown Earth Shape
+211	Unknown Earth Shape
+212	Unknown Earth Shape
+213	Unknown Earth Shape
+214	Unknown Earth Shape
+215	Unknown Earth Shape
+216	Unknown Earth Shape
+217	Unknown Earth Shape
+218	Unknown Earth Shape
+219	Unknown Earth Shape
+220	Unknown Earth Shape
+221	Unknown Earth Shape
+222	Unknown Earth Shape
+223	Unknown Earth Shape
+224	Unknown Earth Shape
+225	Unknown Earth Shape
+226	Unknown Earth Shape
+227	Unknown Earth Shape
+228	Unknown Earth Shape
+229	Unknown Earth Shape
+230	Unknown Earth Shape
+231	Unknown Earth Shape
+232	Unknown Earth Shape
+233	Unknown Earth Shape
+234	Unknown Earth Shape
+235	Unknown Earth Shape
+236	Unknown Earth Shape
+237	Unknown Earth Shape
+238	Unknown Earth Shape
+239	Unknown Earth Shape
+240	Unknown Earth Shape
+241	Unknown Earth Shape
+242	Unknown Earth Shape
+243	Unknown Earth Shape
+244	Unknown Earth Shape
+245	Unknown Earth Shape
+246	Unknown Earth Shape
+247	Unknown Earth Shape
+248	Unknown Earth Shape
+249	Unknown Earth Shape
+250	Unknown Earth Shape
+251	Unknown Earth Shape
+252	Unknown Earth Shape
+253	Unknown Earth Shape
+254	Unknown Earth Shape
+255	Unknown Earth Shape
+### codeTable4_0
+0	Analysis/forecast at horizontal level/layer at a point in time
+1	Individual ensemble forecast at a point in time
+2	Derived forecast on all ensemble members at a point in time
+3	Derived forecasts on cluster of ensemble members over rectangular area at a point in time
+4	Derived forecasts on cluster of ensemble members over circular area at a point in time
+5	Probability forecasts at a horizontal level at a point in time
+6	Percentile forecasts at a horizontal level at a point in time
+7	Analysis or forecast error at a horizontal level at a point in time
+8	Average, accumulation, extreme values or other statistically processed value at a horizontal level in a time interval
+9	Probability forecasts at a horizontal level or in a horizontal layer in a time interval
+10	Percentile forecasts at a horizontal level or in a horizontal layer in a time interval
+11	Individual ensemble forecast in a time interval
+12	Derived forecast on all ensemble members in a time interval
+13	Derived forecasts on cluster of ensemble members over rectangular area  in a time interval
+14	Derived forecasts on cluster of ensemble members over circular area  in a time interval
+15	Average, accumulation, extreme values or other statistically-processed values over a spatial area at a horizontal level or in a horizontal layer at a point in time.
+20	Radar product
+30	Satellite product
+31	Satellite product
+40	Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents.
+41	Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents.
+42	Average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents
+43	Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval for atmospheric chemical constituents.
+254	CCITT IA5 character string
+### codeTable4_3
+0	Analysis
+1	Initialization
+2	Forecast
+3	Bias Corrected Forecast
+4	Ensemble Forecast
+5	Probability Forecast
+6	Forecast Error
+7	Analysis Error
+8	Observation
+9	Climatological
+10	Probability-Weighted Forecast
+192	Forecast Confidence Indicator
+193	Bias Corrected Ensemble Forecast
+255	Missing
+### codeTable4_5
+1	Ground or water surface
+2	Cloud base level
+3	Level of cloud tops
+4	Level of 0o C isotherm
+5	Level of adiabatic condensation lifted from the surface
+6	Maximum wind level
+7	Tropopause
+8	Nominal top of the atmosphere
+9	Sea bottom
+10	Entire Atmosphere
+11	Cumulonimbus Base
+12	Cumulonimbus Top
+13	Unknown=13
+14	Unknown=14
+15	Unknown=15
+16	Unknown=16
+17	Unknown=17
+18	Unknown=18
+19	Unknown=19
+20	Isothermal level
+21	Unknown=21
+22	Unknown=22
+23	Unknown=23
+24	Unknown=24
+25	Unknown=25
+26	Unknown=26
+27	Unknown=27
+28	Unknown=28
+29	Unknown=29
+30	Unknown=30
+31	Unknown=31
+32	Unknown=32
+33	Unknown=33
+34	Unknown=34
+35	Unknown=35
+36	Unknown=36
+37	Unknown=37
+38	Unknown=38
+39	Unknown=39
+40	Unknown=40
+41	Unknown=41
+42	Unknown=42
+43	Unknown=43
+44	Unknown=44
+45	Unknown=45
+46	Unknown=46
+47	Unknown=47
+48	Unknown=48
+49	Unknown=49
+50	Unknown=50
+51	Unknown=51
+52	Unknown=52
+53	Unknown=53
+54	Unknown=54
+55	Unknown=55
+56	Unknown=56
+57	Unknown=57
+58	Unknown=58
+59	Unknown=59
+60	Unknown=60
+61	Unknown=61
+62	Unknown=62
+63	Unknown=63
+64	Unknown=64
+65	Unknown=65
+66	Unknown=66
+67	Unknown=67
+68	Unknown=68
+69	Unknown=69
+70	Unknown=70
+71	Unknown=71
+72	Unknown=72
+73	Unknown=73
+74	Unknown=74
+75	Unknown=75
+76	Unknown=76
+77	Unknown=77
+78	Unknown=78
+79	Unknown=79
+80	Unknown=80
+81	Unknown=81
+82	Unknown=82
+83	Unknown=83
+84	Unknown=84
+85	Unknown=85
+86	Unknown=86
+87	Unknown=87
+88	Unknown=88
+89	Unknown=89
+90	Unknown=90
+91	Unknown=91
+92	Unknown=92
+93	Unknown=93
+94	Unknown=94
+95	Unknown=95
+96	Unknown=96
+97	Unknown=97
+98	Unknown=98
+99	Unknown=99
+100	Isobaric surface
+101	Mean sea level
+102	Specific altitude above mean sea level
+103	Specified height level above ground
+104	Sigma level
+105	Hybrid level
+106	Depth below land surface
+107	Isentropic 'theta' level
+108	Level at specified pressure difference from ground to level
+109	Potential vorticity surface
+110	Unknown=110
+111	Eta level
+112	Unknown=112
+113	Unknown=113
+114	Unknown=114
+115	Unknown=115
+116	Unknown=116
+117	Mixed layer depth
+118	Unknown=118
+119	Unknown=119
+120	Unknown=120
+121	Unknown=121
+122	Unknown=122
+123	Unknown=123
+124	Unknown=124
+125	Unknown=125
+126	Unknown=126
+127	Unknown=127
+128	Unknown=128
+129	Unknown=129
+130	Unknown=130
+131	Unknown=131
+132	Unknown=132
+133	Unknown=133
+134	Unknown=134
+135	Unknown=135
+136	Unknown=136
+137	Unknown=137
+138	Unknown=138
+139	Unknown=139
+140	Unknown=140
+141	Unknown=141
+142	Unknown=142
+143	Unknown=143
+144	Unknown=144
+145	Unknown=145
+146	Unknown=146
+147	Unknown=147
+148	Unknown=148
+149	Unknown=149
+150	Unknown=150
+151	Unknown=151
+152	Unknown=152
+153	Unknown=153
+154	Unknown=154
+155	Unknown=155
+156	Unknown=156
+157	Unknown=157
+158	Unknown=158
+159	Unknown=159
+160	Depth below sea level
+161	Unknown=161
+162	Unknown=162
+163	Unknown=163
+164	Unknown=164
+165	Unknown=165
+166	Unknown=166
+167	Unknown=167
+168	Unknown=168
+169	Unknown=169
+170	Unknown=170
+171	Unknown=171
+172	Unknown=172
+173	Unknown=173
+174	Unknown=174
+175	Unknown=175
+176	Unknown=176
+177	Unknown=177
+178	Unknown=178
+179	Unknown=179
+180	Unknown=180
+181	Unknown=181
+182	Unknown=182
+183	Unknown=183
+184	Unknown=184
+185	Unknown=185
+186	Unknown=186
+187	Unknown=187
+188	Unknown=188
+189	Unknown=189
+190	Unknown=190
+191	Unknown=191
+192	Unknown=192
+193	Unknown=193
+194	Unknown=194
+195	Unknown=195
+196	Unknown=196
+197	Unknown=197
+198	Unknown=198
+199	Unknown=199
+200	Entire atmosphere layer
+201	Entire ocean layer
+202	Unknown=202
+203	Unknown=203
+204	Highest tropospheric freezing level
+205	Unknown=205
+206	Grid scale cloud bottom level
+207	Grid scale cloud top level
+208	Unknown=208
+209	Boundary layer cloud bottom level
+210	Boundary layer cloud top level
+211	Boundary layer cloud layer
+212	Low cloud bottom level
+213	Low cloud top level
+214	Low cloud layer
+215	Cloud ceiling
+216	Unknown=216
+217	Unknown=217
+218	Unknown=218
+219	Unknown=219
+220	Planetary Boundary Layer
+221	Layer Between Two Hybrid Levels
+222	Middle cloud bottom level
+223	Middle cloud top level
+224	Middle cloud layer
+225	Unknown=225
+226	Unknown=226
+227	Unknown=227
+228	Unknown=228
+229	Unknown=229
+230	Unknown=230
+231	Unknown=231
+232	High cloud bottom level
+233	High cloud top level
+234	High cloud layer
+235	Ocean isotherm level
+236	Layer between two depths below ocean surface
+237	Bottom of ocean mixed layer
+238	Bottom of ocean isothermal layer
+239	Layer Ocean Surface and 26C Ocean Isothermal Level
+240	Ocean Mixed Layer
+241	Ordered Sequence of Data
+242	Convective cloud bottom level
+243	Convective cloud top level
+244	Convective cloud layer
+245	Lowest level of the wet bulb zero
+246	Maximum equivalent potential temperature level
+247	Equilibrium level
+248	Shallow convective cloud bottom level
+249	Shallow convective cloud top level
+250	Unknown=250
+251	Deep convective cloud bottom level
+252	Deep convective cloud top level
+253	Lowest bottom level of supercooled liquid water layer
+254	Highest top level of supercooled liquid water layer
+255	Missing
+### center_id
+0	WMO Secretariat
+1	Melbourne(WMC)
+2	Melbourne(WMC)
+3	Melbourne(WMC)
+4	Moscow(WMC)
+5	Moscow(WMC)
+6	Moscow(WMC)
+7	US National Weather Service - NCEP(WMC)
+8	US National Weather Service - NWSTG(WMC)
+9	US National Weather Service - Other(WMC)
+10	Cairo (RSMC/RAFC)
+11	Cairo (RSMC/RAFC)
+12	Dakar (RSMC/RAFC)
+13	Dakar (RSMC/RAFC)
+14	Nairobi (RSMC/RAFC)
+15	Nairobi (RSMC/RAFC)
+16	Casablanca (RSMC)
+17	Tunis (RSMC)
+18	Tunis Casablanca (RSMC)
+19	Tunis Casablanca (RSMC)
+20	Las Palmas (RAFC)
+21	Algiers (RSMC)
+22	ACMAD
+23	Mozambique (NMC)
+24	Pretoria (RSMC)
+25	La Reunion (RSMC)
+26	Khabarovsk (RSMC)
+27	Khabarovsk (RSMC)
+28	New Delhi (RSMC/RAFC)
+29	New Delhi (RSMC/RAFC)
+30	Novosibirsk (RSMC)
+31	Novosibirsk (RSMC)
+32	Tashkent (RSMC)
+33	Jeddah (RSMC)
+34	Japan Meteorological Agency - Tokyo (RSMC), 
+35	Japan Meteorological Agency - Tokyo (RSMC), 
+36	Bangkok
+37	Ulan Bator
+38	Beijing (RSMC)
+39	Beijing (RSMC)
+40	Seoul
+41	Buenos Aires (RSMC/RAFC)
+42	Buenos Aires (RSMC/RAFC)
+43	Brasilia (RSMC/RAFC)
+44	Brasilia (RSMC/RAFC)
+45	Santiago
+46	Brazilian Space Agency - INPE
+47	Columbia (NMC)
+48	Ecuador (NMC)
+49	Peru (NMC)
+50	Venezuela (NMC)
+51	Miami (RSMC/RAFC)
+52	Tropical Prediction Center(NHC), Miami (RSMC)
+53	Canadian Meteorological Service - Montreal (RSMC)
+54	Canadian Meteorological Service - Montreal (RSMC)
+55	San Francisco
+56	ARINC Center
+57	U.S. Air Force - Global Weather Center
+58	U.S. Navy Fleet Numerical Meteorology and Oceanography Center
+59	The NOAA Forecast Systems Laboratory
+60	National Centre for Atmospheric Research (NCAR), Boulder, CO
+61	Service ARGOS - Landover, MD, USA
+62	US Naval Oceanographic Office
+64	Honolulu
+65	Darwin (RSMC)
+66	Darwin (RSMC)
+67	Melbourne (RSMC)
+69	Wellington (RSMC/RAFC)
+70	Wellington (RSMC/RAFC)
+71	Nadi (RSMC)
+72	Singapore
+73	Malaysia (NMC)
+74	U.K. Met Office - Exeter (RSMC)
+75	U.K. Met Office - Exeter (RSMC)
+76	Moscow (RSMC/RAFC)
+78	Offenbach (RSMC)
+79	Offenbach (RSMC)
+80	Rome (RSMC)
+81	Rome (RSMC)
+82	Norrkoping
+83	Norrkoping
+84	French Weather Service - Toulouse (RSMC)
+85	French Weather Service - Toulouse (RSMC)
+86	Helsinki
+87	Belgrade
+88	Oslo
+89	Prague
+90	Episkopi
+91	Ankara
+92	Frankfurt/Main (RAFC)
+93	London (WAFC)
+94	Copenhagen
+95	Rota
+96	Athens
+97	European Space Agency (ESA)
+98	European Center for Medium-Range Weather Forecasts (RSMC)
+99	De Bilt, Netherlands
+100	Brazzaville
+101	Abidjan
+102	Libyan Arab Jamahiriya (NMC)
+103	Madagascar (NMC)
+104	Mauritius (NMC)
+105	Niger (NMC)
+106	Seychelles (NMC)
+107	Uganda (NMC)
+108	Tanzania (NMC)
+109	Zimbabwe (NMC)
+110	Hong-Kong
+111	Afghanistan (NMC)
+112	Bahrain (NMC)
+113	Bangladesh (NMC)
+114	Bhutan (NMC)
+115	Cambodia (NMC)
+116	Democratic People's Republic of Korea (NMC)
+117	Islamic Republic of Iran (NMC)
+118	Iraq (NMC)
+119	Kazakhstan (NMC)
+120	Kuwait (NMC)
+121	Kyrgyz Republic (NMC)
+122	Lao People's Democratic Republic (NMC)
+123	Macao, China
+124	Maldives (NMC)
+125	Myanmar (NMC)
+126	Nepal (NMC)
+127	Oman (NMC)
+128	Pakistan (NMC)
+129	Qatar (NMC)
+130	Republic of Yemen (NMC)
+131	Sri Lanka (NMC)
+132	Tajikistan (NMC)
+133	Turkmenistan (NMC)
+134	United Arab Emirates (NMC)
+135	Uzbekistan (NMC)
+136	Socialist Republic of Viet Nam (NMC)
+140	Bolivia (NMC)
+141	Guyana (NMC)
+142	Paraguay (NMC)
+143	Suriname (NMC)
+144	Uruguay (NMC)
+145	French Guyana
+146	Brazilian Navy Hydrographic Center
+150	Antigua and Barbuda (NMC)
+151	Bahamas (NMC)
+152	Barbados (NMC)
+153	Belize (NMC)
+154	British Caribbean Territories Center
+155	San Jose
+156	Cuba (NMC)
+157	Dominica (NMC)
+158	Dominican Republic (NMC)
+159	El Salvador (NMC)
+160	US NOAA/NESDIS
+161	US NOAA Office of Oceanic and Atmospheric Research
+162	Guatemala (NMC)
+163	Haiti (NMC)
+164	Honduras (NMC)
+165	Jamaica (NMC)
+166	Mexico
+167	Netherlands Antilles and Aruba (NMC)
+168	Nicaragua (NMC)
+169	Panama (NMC)
+170	Saint Lucia (NMC)
+171	Trinidad and Tobago (NMC)
+172	French Departments
+190	Cook Islands (NMC)
+191	French Polynesia (NMC)
+192	Tonga (NMC)
+193	Vanuatu (NMC)
+194	Brunei (NMC)
+195	Indonesia (NMC)
+196	Kiribati (NMC)
+197	Federated States of Micronesia (NMC)
+198	New Caledonia (NMC)
+199	Niue
+200	Papua New Guinea (NMC)
+201	Philippines (NMC)
+202	Samoa (NMC)
+203	Solomon Islands (NMC)
+210	Frascati (ESA/ESRIN)
+211	Lanion
+212	Lisboa
+213	Reykjavik
+214	Madrid
+215	Zurich
+216	Service ARGOS - Toulouse, FR
+217	Bratislava
+218	Budapest
+219	Ljubljana
+220	Warsaw
+221	Zagreb
+222	Albania (NMC)
+223	Armenia (NMC)
+224	Austria (NMC)
+225	Azerbaijan (NMC)
+226	Belarus (NMC)
+227	Belgium (NMC)
+228	Bosnia and Herzegovina (NMC)
+229	Bulgaria (NMC)
+230	Cyprus (NMC)
+231	Estonia (NMC)
+232	Georgia (NMC)
+233	Dublin
+234	Israel (NMC)
+235	Jordan (NMC)
+236	Latvia (NMC)
+237	Lebanon (NMC)
+238	Lithuania (NMC)
+239	Luxembourg
+240	Malta (NMC)
+241	Monaco
+242	Romania (NMC)
+243	Syrian Arab Republic (NMC)
+244	The former Yugoslav Republic of Macedonia (NMC)
+245	Ukraine (NMC)
+246	Republic of Moldova
+254	EUMETSAT Operation Centre
+### discipline
+11:52:40.732 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 2040
+0	Meteorological_products
+1	Hydrological_products
+2	Land_surface_products
+3	Space_Products
+11:52:40.734 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+11:52:40.734 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	UnknownDiscipline_4
+11:52:40.734 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+11:52:40.734 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	UnknownDiscipline_5
+11:52:40.734 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+11:52:40.734 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	UnknownDiscipline_6
+11:52:40.734 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+11:52:40.734 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	UnknownDiscipline_7
+11:52:40.734 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+11:52:40.734 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	UnknownDiscipline_8
+11:52:40.734 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+11:52:40.734 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	UnknownDiscipline_9
+10	Oceanographic_products
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 11
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 11
+11	UnknownDiscipline_11
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 12
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 12
+12	UnknownDiscipline_12
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 13
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 13
+13	UnknownDiscipline_13
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 14
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 14
+14	UnknownDiscipline_14
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 15
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 15
+15	UnknownDiscipline_15
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 16
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 16
+16	UnknownDiscipline_16
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 17
+11:52:40.735 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 17
+17	UnknownDiscipline_17
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 18
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 18
+18	UnknownDiscipline_18
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 19
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 19
+19	UnknownDiscipline_19
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 20
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 20
+20	UnknownDiscipline_20
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 21
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 21
+21	UnknownDiscipline_21
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 22
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 22
+22	UnknownDiscipline_22
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 23
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 23
+23	UnknownDiscipline_23
+11:52:40.736 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 24
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 24
+24	UnknownDiscipline_24
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 25
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 25
+25	UnknownDiscipline_25
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 26
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 26
+26	UnknownDiscipline_26
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 27
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 27
+27	UnknownDiscipline_27
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 28
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 28
+28	UnknownDiscipline_28
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 29
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 29
+29	UnknownDiscipline_29
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 30
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 30
+30	UnknownDiscipline_30
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 31
+11:52:40.737 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 31
+31	UnknownDiscipline_31
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 32
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 32
+32	UnknownDiscipline_32
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 33
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 33
+33	UnknownDiscipline_33
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 34
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 34
+34	UnknownDiscipline_34
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 35
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 35
+35	UnknownDiscipline_35
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 36
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 36
+36	UnknownDiscipline_36
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 37
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 37
+37	UnknownDiscipline_37
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 38
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 38
+38	UnknownDiscipline_38
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 39
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 39
+39	UnknownDiscipline_39
+11:52:40.738 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 40
+11:52:40.739 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 40
+40	UnknownDiscipline_40
+11:52:40.739 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 41
+11:52:40.739 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 41
+41	UnknownDiscipline_41
+11:52:40.739 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 42
+11:52:40.739 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 42
+42	UnknownDiscipline_42
+11:52:40.739 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 43
+11:52:40.739 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 43
+43	UnknownDiscipline_43
+11:52:40.739 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 44
+11:52:40.739 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 44
+44	UnknownDiscipline_44
+11:52:40.739 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 45
+11:52:40.739 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 45
+45	UnknownDiscipline_45
+11:52:40.739 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 46
+11:52:40.740 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 46
+46	UnknownDiscipline_46
+11:52:40.740 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 47
+11:52:40.740 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 47
+47	UnknownDiscipline_47
+11:52:40.740 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 48
+11:52:40.740 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 48
+48	UnknownDiscipline_48
+11:52:40.740 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 49
+11:52:40.740 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 49
+49	UnknownDiscipline_49
+11:52:40.740 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 50
+11:52:40.740 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 50
+50	UnknownDiscipline_50
+11:52:40.740 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 51
+11:52:40.740 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 51
+51	UnknownDiscipline_51
+11:52:40.741 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 52
+11:52:40.741 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 52
+52	UnknownDiscipline_52
+11:52:40.741 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 53
+11:52:40.741 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 53
+53	UnknownDiscipline_53
+11:52:40.741 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 54
+11:52:40.741 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 54
+54	UnknownDiscipline_54
+11:52:40.741 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 55
+11:52:40.741 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 55
+55	UnknownDiscipline_55
+11:52:40.741 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 56
+11:52:40.741 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 56
+56	UnknownDiscipline_56
+11:52:40.742 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 57
+11:52:40.742 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 57
+57	UnknownDiscipline_57
+11:52:40.742 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 58
+11:52:40.742 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 58
+58	UnknownDiscipline_58
+11:52:40.742 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 59
+11:52:40.742 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 59
+59	UnknownDiscipline_59
+11:52:40.742 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 60
+11:52:40.742 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 60
+60	UnknownDiscipline_60
+11:52:40.742 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 61
+11:52:40.742 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 61
+61	UnknownDiscipline_61
+11:52:40.742 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 62
+11:52:40.743 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 62
+62	UnknownDiscipline_62
+11:52:40.743 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 63
+11:52:40.743 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 63
+63	UnknownDiscipline_63
+11:52:40.743 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 64
+11:52:40.743 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 64
+64	UnknownDiscipline_64
+11:52:40.743 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 65
+11:52:40.743 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 65
+65	UnknownDiscipline_65
+11:52:40.743 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 66
+11:52:40.744 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 66
+66	UnknownDiscipline_66
+11:52:40.744 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 67
+11:52:40.744 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 67
+67	UnknownDiscipline_67
+11:52:40.744 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 68
+11:52:40.744 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 68
+68	UnknownDiscipline_68
+11:52:40.744 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 69
+11:52:40.744 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 69
+69	UnknownDiscipline_69
+11:52:40.744 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 70
+11:52:40.744 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 70
+70	UnknownDiscipline_70
+11:52:40.744 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 71
+11:52:40.744 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 71
+71	UnknownDiscipline_71
+11:52:40.744 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 72
+11:52:40.745 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 72
+72	UnknownDiscipline_72
+11:52:40.745 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 73
+11:52:40.745 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 73
+73	UnknownDiscipline_73
+11:52:40.745 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 74
+11:52:40.745 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 74
+74	UnknownDiscipline_74
+11:52:40.745 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 75
+11:52:40.745 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 75
+75	UnknownDiscipline_75
+11:52:40.745 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 76
+11:52:40.745 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 76
+76	UnknownDiscipline_76
+11:52:40.745 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 77
+11:52:40.745 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 77
+77	UnknownDiscipline_77
+11:52:40.745 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 78
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 78
+78	UnknownDiscipline_78
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 79
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 79
+79	UnknownDiscipline_79
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 80
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 80
+80	UnknownDiscipline_80
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 81
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 81
+81	UnknownDiscipline_81
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 82
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 82
+82	UnknownDiscipline_82
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 83
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 83
+83	UnknownDiscipline_83
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 84
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 84
+84	UnknownDiscipline_84
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 85
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 85
+85	UnknownDiscipline_85
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 86
+11:52:40.746 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 86
+86	UnknownDiscipline_86
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 87
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 87
+87	UnknownDiscipline_87
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 88
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 88
+88	UnknownDiscipline_88
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 89
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 89
+89	UnknownDiscipline_89
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 90
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 90
+90	UnknownDiscipline_90
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 91
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 91
+91	UnknownDiscipline_91
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 92
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 92
+92	UnknownDiscipline_92
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 93
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 93
+93	UnknownDiscipline_93
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 94
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 94
+94	UnknownDiscipline_94
+11:52:40.747 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 95
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 95
+95	UnknownDiscipline_95
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 96
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 96
+96	UnknownDiscipline_96
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 97
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 97
+97	UnknownDiscipline_97
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 98
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 98
+98	UnknownDiscipline_98
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 99
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 99
+99	UnknownDiscipline_99
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 100
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 100
+100	UnknownDiscipline_100
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 101
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 101
+101	UnknownDiscipline_101
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 102
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 102
+102	UnknownDiscipline_102
+11:52:40.748 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 103
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 103
+103	UnknownDiscipline_103
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 104
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 104
+104	UnknownDiscipline_104
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 105
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 105
+105	UnknownDiscipline_105
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 106
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 106
+106	UnknownDiscipline_106
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 107
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 107
+107	UnknownDiscipline_107
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 108
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 108
+108	UnknownDiscipline_108
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 109
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 109
+109	UnknownDiscipline_109
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 110
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 110
+110	UnknownDiscipline_110
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 111
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 111
+111	UnknownDiscipline_111
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 112
+11:52:40.749 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 112
+112	UnknownDiscipline_112
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 113
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 113
+113	UnknownDiscipline_113
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 114
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 114
+114	UnknownDiscipline_114
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 115
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 115
+115	UnknownDiscipline_115
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 116
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 116
+116	UnknownDiscipline_116
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 117
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 117
+117	UnknownDiscipline_117
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 118
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 118
+118	UnknownDiscipline_118
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 119
+11:52:40.750 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 119
+119	UnknownDiscipline_119
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 120
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 120
+120	UnknownDiscipline_120
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 121
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 121
+121	UnknownDiscipline_121
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 122
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 122
+122	UnknownDiscipline_122
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 123
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 123
+123	UnknownDiscipline_123
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 124
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 124
+124	UnknownDiscipline_124
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 125
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 125
+125	UnknownDiscipline_125
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 126
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 126
+126	UnknownDiscipline_126
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 127
+11:52:40.751 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 127
+127	UnknownDiscipline_127
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 128
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 128
+128	UnknownDiscipline_128
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 129
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 129
+129	UnknownDiscipline_129
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 130
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 130
+130	UnknownDiscipline_130
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 131
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 131
+131	UnknownDiscipline_131
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 132
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 132
+132	UnknownDiscipline_132
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 133
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 133
+133	UnknownDiscipline_133
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 134
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 134
+134	UnknownDiscipline_134
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 135
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 135
+135	UnknownDiscipline_135
+11:52:40.752 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 136
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 136
+136	UnknownDiscipline_136
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 137
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 137
+137	UnknownDiscipline_137
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 138
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 138
+138	UnknownDiscipline_138
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 139
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 139
+139	UnknownDiscipline_139
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 140
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 140
+140	UnknownDiscipline_140
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 141
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 141
+141	UnknownDiscipline_141
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 142
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 142
+142	UnknownDiscipline_142
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 143
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 143
+143	UnknownDiscipline_143
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 144
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 144
+144	UnknownDiscipline_144
+11:52:40.753 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 145
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 145
+145	UnknownDiscipline_145
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 146
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 146
+146	UnknownDiscipline_146
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 147
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 147
+147	UnknownDiscipline_147
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 148
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 148
+148	UnknownDiscipline_148
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 149
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 149
+149	UnknownDiscipline_149
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 150
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 150
+150	UnknownDiscipline_150
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 151
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 151
+151	UnknownDiscipline_151
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 152
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 152
+152	UnknownDiscipline_152
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 153
+11:52:40.754 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 153
+153	UnknownDiscipline_153
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 154
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 154
+154	UnknownDiscipline_154
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 155
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 155
+155	UnknownDiscipline_155
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 156
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 156
+156	UnknownDiscipline_156
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 157
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 157
+157	UnknownDiscipline_157
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 158
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 158
+158	UnknownDiscipline_158
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 159
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 159
+159	UnknownDiscipline_159
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 160
+11:52:40.755 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 160
+160	UnknownDiscipline_160
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 161
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 161
+161	UnknownDiscipline_161
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 162
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 162
+162	UnknownDiscipline_162
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 163
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 163
+163	UnknownDiscipline_163
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 164
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 164
+164	UnknownDiscipline_164
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 165
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 165
+165	UnknownDiscipline_165
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 166
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 166
+166	UnknownDiscipline_166
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 167
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 167
+167	UnknownDiscipline_167
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 168
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 168
+168	UnknownDiscipline_168
+11:52:40.756 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 169
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 169
+169	UnknownDiscipline_169
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 170
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 170
+170	UnknownDiscipline_170
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 171
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 171
+171	UnknownDiscipline_171
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 172
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 172
+172	UnknownDiscipline_172
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 173
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 173
+173	UnknownDiscipline_173
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 174
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 174
+174	UnknownDiscipline_174
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 175
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 175
+175	UnknownDiscipline_175
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 176
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 176
+176	UnknownDiscipline_176
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 177
+11:52:40.757 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 177
+177	UnknownDiscipline_177
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 178
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 178
+178	UnknownDiscipline_178
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 179
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 179
+179	UnknownDiscipline_179
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 180
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 180
+180	UnknownDiscipline_180
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 181
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 181
+181	UnknownDiscipline_181
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 182
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 182
+182	UnknownDiscipline_182
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 183
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 183
+183	UnknownDiscipline_183
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 184
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 184
+184	UnknownDiscipline_184
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 185
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 185
+185	UnknownDiscipline_185
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 186
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 186
+186	UnknownDiscipline_186
+11:52:40.758 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 187
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 187
+187	UnknownDiscipline_187
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 188
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 188
+188	UnknownDiscipline_188
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 189
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 189
+189	UnknownDiscipline_189
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 190
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 190
+190	UnknownDiscipline_190
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 191
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 191
+191	UnknownDiscipline_191
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 192
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 192
+192	UnknownDiscipline_192
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 193
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 193
+193	UnknownDiscipline_193
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 194
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 194
+194	UnknownDiscipline_194
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 195
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 195
+195	UnknownDiscipline_195
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 196
+11:52:40.759 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 196
+196	UnknownDiscipline_196
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 197
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 197
+197	UnknownDiscipline_197
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 198
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 198
+198	UnknownDiscipline_198
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 199
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 199
+199	UnknownDiscipline_199
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 200
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 200
+200	UnknownDiscipline_200
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 201
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 201
+201	UnknownDiscipline_201
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 202
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 202
+202	UnknownDiscipline_202
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 203
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 203
+203	UnknownDiscipline_203
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 204
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 204
+204	UnknownDiscipline_204
+11:52:40.760 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 205
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 205
+205	UnknownDiscipline_205
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 206
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 206
+206	UnknownDiscipline_206
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 207
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 207
+207	UnknownDiscipline_207
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 208
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 208
+208	UnknownDiscipline_208
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 209
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 209
+209	UnknownDiscipline_209
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 210
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 210
+210	UnknownDiscipline_210
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 211
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 211
+211	UnknownDiscipline_211
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 212
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 212
+212	UnknownDiscipline_212
+11:52:40.761 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 213
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 213
+213	UnknownDiscipline_213
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 214
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 214
+214	UnknownDiscipline_214
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 215
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 215
+215	UnknownDiscipline_215
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 216
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 216
+216	UnknownDiscipline_216
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 217
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 217
+217	UnknownDiscipline_217
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 218
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 218
+218	UnknownDiscipline_218
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 219
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 219
+219	UnknownDiscipline_219
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 220
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 220
+220	UnknownDiscipline_220
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 221
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 221
+221	UnknownDiscipline_221
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 222
+11:52:40.762 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 222
+222	UnknownDiscipline_222
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 223
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 223
+223	UnknownDiscipline_223
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 224
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 224
+224	UnknownDiscipline_224
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 225
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 225
+225	UnknownDiscipline_225
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 226
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 226
+226	UnknownDiscipline_226
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 227
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 227
+227	UnknownDiscipline_227
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 228
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 228
+228	UnknownDiscipline_228
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 229
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 229
+229	UnknownDiscipline_229
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 230
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 230
+230	UnknownDiscipline_230
+11:52:40.763 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 231
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 231
+231	UnknownDiscipline_231
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 232
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 232
+232	UnknownDiscipline_232
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 233
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 233
+233	UnknownDiscipline_233
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 234
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 234
+234	UnknownDiscipline_234
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 235
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 235
+235	UnknownDiscipline_235
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 236
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 236
+236	UnknownDiscipline_236
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 237
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 237
+237	UnknownDiscipline_237
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 238
+11:52:40.764 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 238
+238	UnknownDiscipline_238
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 239
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 239
+239	UnknownDiscipline_239
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 240
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 240
+240	UnknownDiscipline_240
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 241
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 241
+241	UnknownDiscipline_241
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 242
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 242
+242	UnknownDiscipline_242
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 243
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 243
+243	UnknownDiscipline_243
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 244
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 244
+244	UnknownDiscipline_244
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 245
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 245
+245	UnknownDiscipline_245
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 246
+11:52:40.765 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 246
+246	UnknownDiscipline_246
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 247
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 247
+247	UnknownDiscipline_247
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 248
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 248
+248	UnknownDiscipline_248
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 249
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 249
+249	UnknownDiscipline_249
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 250
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 250
+250	UnknownDiscipline_250
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 251
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 251
+251	UnknownDiscipline_251
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 252
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 252
+252	UnknownDiscipline_252
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 253
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 253
+253	UnknownDiscipline_253
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 254
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 254
+254	UnknownDiscipline_254
+11:52:40.766 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 255
+11:52:40.767 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 255
+255	UnknownDiscipline_255
+### categories
+0	0	Temperature
+0	1	Moisture
+0	2	Momentum
+0	3	Mass
+0	4	Short-wave_Radiation
+0	5	Long-wave_Radiation
+0	6	Cloud
+0	7	Thermodynamic_Stability_indices
+11:52:40.769 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 8
+0	8	UnknownCategory_8
+11:52:40.769 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 9
+0	9	UnknownCategory_9
+11:52:40.770 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 10
+0	10	UnknownCategory_10
+11:52:40.770 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 11
+0	11	UnknownCategory_11
+11:52:40.770 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 12
+0	12	UnknownCategory_12
+0	13	Aerosols
+0	14	Trace_gases
+0	15	Radar
+0	16	Forecast_Radar_Imagery
+0	17	Electro-dynamics
+0	18	Nuclear_and_radiology
+0	19	Physical_atmospheric_properties
+0	20	Atmospheric_chemical_constituents
+11:52:40.770 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 21
+0	21	UnknownCategory_21
+11:52:40.770 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 22
+0	22	UnknownCategory_22
+11:52:40.770 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 23
+0	23	UnknownCategory_23
+11:52:40.770 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 24
+0	24	UnknownCategory_24
+11:52:40.771 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 25
+0	25	UnknownCategory_25
+11:52:40.771 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 26
+0	26	UnknownCategory_26
+11:52:40.771 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 27
+0	27	UnknownCategory_27
+11:52:40.771 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 28
+0	28	UnknownCategory_28
+11:52:40.771 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 29
+0	29	UnknownCategory_29
+11:52:40.771 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 30
+0	30	UnknownCategory_30
+1	0	Hydrology
+1	1	Hydrology_probabilities
+11:52:40.771 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 2
+1	2	UnknownCategory_2
+11:52:40.771 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 3
+1	3	UnknownCategory_3
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 4
+1	4	UnknownCategory_4
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 5
+1	5	UnknownCategory_5
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 6
+1	6	UnknownCategory_6
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 7
+1	7	UnknownCategory_7
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 8
+1	8	UnknownCategory_8
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 9
+1	9	UnknownCategory_9
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 10
+1	10	UnknownCategory_10
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 11
+1	11	UnknownCategory_11
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 12
+1	12	UnknownCategory_12
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 13
+1	13	UnknownCategory_13
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 14
+1	14	UnknownCategory_14
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 15
+1	15	UnknownCategory_15
+11:52:40.772 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 16
+1	16	UnknownCategory_16
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 17
+1	17	UnknownCategory_17
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 18
+1	18	UnknownCategory_18
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 19
+1	19	UnknownCategory_19
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 20
+1	20	UnknownCategory_20
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 21
+1	21	UnknownCategory_21
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 22
+1	22	UnknownCategory_22
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 23
+1	23	UnknownCategory_23
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 24
+1	24	UnknownCategory_24
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 25
+1	25	UnknownCategory_25
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 26
+1	26	UnknownCategory_26
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 27
+1	27	UnknownCategory_27
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 28
+1	28	UnknownCategory_28
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 29
+1	29	UnknownCategory_29
+11:52:40.773 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 30
+1	30	UnknownCategory_30
+2	0	Vegetation_and_Biomass
+11:52:40.774 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 1
+2	1	UnknownCategory_1
+11:52:40.774 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 2
+2	2	UnknownCategory_2
+2	3	Soil_Products
+11:52:40.774 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 4
+2	4	UnknownCategory_4
+11:52:40.774 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 5
+2	5	UnknownCategory_5
+11:52:40.774 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 6
+2	6	UnknownCategory_6
+11:52:40.774 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 7
+2	7	UnknownCategory_7
+11:52:40.774 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 8
+2	8	UnknownCategory_8
+11:52:40.774 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 9
+2	9	UnknownCategory_9
+11:52:40.774 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 10
+2	10	UnknownCategory_10
+11:52:40.774 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 11
+2	11	UnknownCategory_11
+11:52:40.774 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 12
+2	12	UnknownCategory_12
+11:52:40.774 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 13
+2	13	UnknownCategory_13
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 14
+2	14	UnknownCategory_14
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 15
+2	15	UnknownCategory_15
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 16
+2	16	UnknownCategory_16
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 17
+2	17	UnknownCategory_17
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 18
+2	18	UnknownCategory_18
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 19
+2	19	UnknownCategory_19
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 20
+2	20	UnknownCategory_20
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 21
+2	21	UnknownCategory_21
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 22
+2	22	UnknownCategory_22
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 23
+2	23	UnknownCategory_23
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 24
+2	24	UnknownCategory_24
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 25
+2	25	UnknownCategory_25
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 26
+2	26	UnknownCategory_26
+11:52:40.775 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 27
+2	27	UnknownCategory_27
+11:52:40.776 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 28
+2	28	UnknownCategory_28
+11:52:40.776 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 29
+2	29	UnknownCategory_29
+11:52:40.776 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 30
+2	30	UnknownCategory_30
+3	0	Image_format_products
+3	1	Quantitative_products
+11:52:40.776 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 2
+3	2	UnknownCategory_2
+11:52:40.776 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 3
+3	3	UnknownCategory_3
+11:52:40.776 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 4
+3	4	UnknownCategory_4
+11:52:40.776 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 5
+3	5	UnknownCategory_5
+11:52:40.776 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 6
+3	6	UnknownCategory_6
+11:52:40.776 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 7
+3	7	UnknownCategory_7
+11:52:40.776 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 8
+3	8	UnknownCategory_8
+11:52:40.776 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 9
+3	9	UnknownCategory_9
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 10
+3	10	UnknownCategory_10
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 11
+3	11	UnknownCategory_11
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 12
+3	12	UnknownCategory_12
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 13
+3	13	UnknownCategory_13
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 14
+3	14	UnknownCategory_14
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 15
+3	15	UnknownCategory_15
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 16
+3	16	UnknownCategory_16
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 17
+3	17	UnknownCategory_17
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 18
+3	18	UnknownCategory_18
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 19
+3	19	UnknownCategory_19
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 20
+3	20	UnknownCategory_20
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 21
+3	21	UnknownCategory_21
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 22
+3	22	UnknownCategory_22
+11:52:40.777 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 23
+3	23	UnknownCategory_23
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 24
+3	24	UnknownCategory_24
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 25
+3	25	UnknownCategory_25
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 26
+3	26	UnknownCategory_26
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 27
+3	27	UnknownCategory_27
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 28
+3	28	UnknownCategory_28
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 29
+3	29	UnknownCategory_29
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 30
+3	30	UnknownCategory_30
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	0	UnknownDiscipline_4_Category_0
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	1	UnknownDiscipline_4_Category_1
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	2	UnknownDiscipline_4_Category_2
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	3	UnknownDiscipline_4_Category_3
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	4	UnknownDiscipline_4_Category_4
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	5	UnknownDiscipline_4_Category_5
+11:52:40.778 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	6	UnknownDiscipline_4_Category_6
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	7	UnknownDiscipline_4_Category_7
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	8	UnknownDiscipline_4_Category_8
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	9	UnknownDiscipline_4_Category_9
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	10	UnknownDiscipline_4_Category_10
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	11	UnknownDiscipline_4_Category_11
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	12	UnknownDiscipline_4_Category_12
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	13	UnknownDiscipline_4_Category_13
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	14	UnknownDiscipline_4_Category_14
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	15	UnknownDiscipline_4_Category_15
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	16	UnknownDiscipline_4_Category_16
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	17	UnknownDiscipline_4_Category_17
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	18	UnknownDiscipline_4_Category_18
+11:52:40.779 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	19	UnknownDiscipline_4_Category_19
+11:52:40.780 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	20	UnknownDiscipline_4_Category_20
+11:52:40.780 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	21	UnknownDiscipline_4_Category_21
+11:52:40.780 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	22	UnknownDiscipline_4_Category_22
+11:52:40.780 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	23	UnknownDiscipline_4_Category_23
+11:52:40.780 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	24	UnknownDiscipline_4_Category_24
+11:52:40.780 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	25	UnknownDiscipline_4_Category_25
+11:52:40.780 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	26	UnknownDiscipline_4_Category_26
+11:52:40.780 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	27	UnknownDiscipline_4_Category_27
+11:52:40.780 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	28	UnknownDiscipline_4_Category_28
+11:52:40.780 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	29	UnknownDiscipline_4_Category_29
+11:52:40.780 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 4
+4	30	UnknownDiscipline_4_Category_30
+11:52:40.780 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	0	UnknownDiscipline_5_Category_0
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	1	UnknownDiscipline_5_Category_1
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	2	UnknownDiscipline_5_Category_2
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	3	UnknownDiscipline_5_Category_3
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	4	UnknownDiscipline_5_Category_4
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	5	UnknownDiscipline_5_Category_5
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	6	UnknownDiscipline_5_Category_6
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	7	UnknownDiscipline_5_Category_7
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	8	UnknownDiscipline_5_Category_8
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	9	UnknownDiscipline_5_Category_9
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	10	UnknownDiscipline_5_Category_10
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	11	UnknownDiscipline_5_Category_11
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	12	UnknownDiscipline_5_Category_12
+11:52:40.781 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	13	UnknownDiscipline_5_Category_13
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	14	UnknownDiscipline_5_Category_14
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	15	UnknownDiscipline_5_Category_15
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	16	UnknownDiscipline_5_Category_16
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	17	UnknownDiscipline_5_Category_17
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	18	UnknownDiscipline_5_Category_18
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	19	UnknownDiscipline_5_Category_19
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	20	UnknownDiscipline_5_Category_20
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	21	UnknownDiscipline_5_Category_21
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	22	UnknownDiscipline_5_Category_22
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	23	UnknownDiscipline_5_Category_23
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	24	UnknownDiscipline_5_Category_24
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	25	UnknownDiscipline_5_Category_25
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	26	UnknownDiscipline_5_Category_26
+11:52:40.782 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	27	UnknownDiscipline_5_Category_27
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	28	UnknownDiscipline_5_Category_28
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	29	UnknownDiscipline_5_Category_29
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 5
+5	30	UnknownDiscipline_5_Category_30
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	0	UnknownDiscipline_6_Category_0
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	1	UnknownDiscipline_6_Category_1
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	2	UnknownDiscipline_6_Category_2
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	3	UnknownDiscipline_6_Category_3
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	4	UnknownDiscipline_6_Category_4
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	5	UnknownDiscipline_6_Category_5
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	6	UnknownDiscipline_6_Category_6
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	7	UnknownDiscipline_6_Category_7
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	8	UnknownDiscipline_6_Category_8
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	9	UnknownDiscipline_6_Category_9
+11:52:40.783 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	10	UnknownDiscipline_6_Category_10
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	11	UnknownDiscipline_6_Category_11
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	12	UnknownDiscipline_6_Category_12
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	13	UnknownDiscipline_6_Category_13
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	14	UnknownDiscipline_6_Category_14
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	15	UnknownDiscipline_6_Category_15
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	16	UnknownDiscipline_6_Category_16
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	17	UnknownDiscipline_6_Category_17
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	18	UnknownDiscipline_6_Category_18
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	19	UnknownDiscipline_6_Category_19
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	20	UnknownDiscipline_6_Category_20
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	21	UnknownDiscipline_6_Category_21
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	22	UnknownDiscipline_6_Category_22
+11:52:40.784 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	23	UnknownDiscipline_6_Category_23
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	24	UnknownDiscipline_6_Category_24
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	25	UnknownDiscipline_6_Category_25
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	26	UnknownDiscipline_6_Category_26
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	27	UnknownDiscipline_6_Category_27
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	28	UnknownDiscipline_6_Category_28
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	29	UnknownDiscipline_6_Category_29
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 6
+6	30	UnknownDiscipline_6_Category_30
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	0	UnknownDiscipline_7_Category_0
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	1	UnknownDiscipline_7_Category_1
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	2	UnknownDiscipline_7_Category_2
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	3	UnknownDiscipline_7_Category_3
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	4	UnknownDiscipline_7_Category_4
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	5	UnknownDiscipline_7_Category_5
+11:52:40.785 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	6	UnknownDiscipline_7_Category_6
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	7	UnknownDiscipline_7_Category_7
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	8	UnknownDiscipline_7_Category_8
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	9	UnknownDiscipline_7_Category_9
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	10	UnknownDiscipline_7_Category_10
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	11	UnknownDiscipline_7_Category_11
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	12	UnknownDiscipline_7_Category_12
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	13	UnknownDiscipline_7_Category_13
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	14	UnknownDiscipline_7_Category_14
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	15	UnknownDiscipline_7_Category_15
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	16	UnknownDiscipline_7_Category_16
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	17	UnknownDiscipline_7_Category_17
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	18	UnknownDiscipline_7_Category_18
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	19	UnknownDiscipline_7_Category_19
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	20	UnknownDiscipline_7_Category_20
+11:52:40.786 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	21	UnknownDiscipline_7_Category_21
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	22	UnknownDiscipline_7_Category_22
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	23	UnknownDiscipline_7_Category_23
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	24	UnknownDiscipline_7_Category_24
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	25	UnknownDiscipline_7_Category_25
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	26	UnknownDiscipline_7_Category_26
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	27	UnknownDiscipline_7_Category_27
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	28	UnknownDiscipline_7_Category_28
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	29	UnknownDiscipline_7_Category_29
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 7
+7	30	UnknownDiscipline_7_Category_30
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	0	UnknownDiscipline_8_Category_0
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	1	UnknownDiscipline_8_Category_1
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	2	UnknownDiscipline_8_Category_2
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	3	UnknownDiscipline_8_Category_3
+11:52:40.787 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	4	UnknownDiscipline_8_Category_4
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	5	UnknownDiscipline_8_Category_5
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	6	UnknownDiscipline_8_Category_6
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	7	UnknownDiscipline_8_Category_7
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	8	UnknownDiscipline_8_Category_8
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	9	UnknownDiscipline_8_Category_9
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	10	UnknownDiscipline_8_Category_10
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	11	UnknownDiscipline_8_Category_11
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	12	UnknownDiscipline_8_Category_12
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	13	UnknownDiscipline_8_Category_13
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	14	UnknownDiscipline_8_Category_14
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	15	UnknownDiscipline_8_Category_15
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	16	UnknownDiscipline_8_Category_16
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	17	UnknownDiscipline_8_Category_17
+11:52:40.788 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	18	UnknownDiscipline_8_Category_18
+11:52:40.789 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	19	UnknownDiscipline_8_Category_19
+11:52:40.789 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	20	UnknownDiscipline_8_Category_20
+11:52:40.789 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	21	UnknownDiscipline_8_Category_21
+11:52:40.789 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	22	UnknownDiscipline_8_Category_22
+11:52:40.789 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	23	UnknownDiscipline_8_Category_23
+11:52:40.789 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	24	UnknownDiscipline_8_Category_24
+11:52:40.789 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	25	UnknownDiscipline_8_Category_25
+11:52:40.789 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	26	UnknownDiscipline_8_Category_26
+11:52:40.789 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	27	UnknownDiscipline_8_Category_27
+11:52:40.789 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	28	UnknownDiscipline_8_Category_28
+11:52:40.789 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	29	UnknownDiscipline_8_Category_29
+11:52:40.789 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 8
+8	30	UnknownDiscipline_8_Category_30
+11:52:40.790 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	0	UnknownDiscipline_9_Category_0
+11:52:40.790 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	1	UnknownDiscipline_9_Category_1
+11:52:40.790 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	2	UnknownDiscipline_9_Category_2
+11:52:40.790 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	3	UnknownDiscipline_9_Category_3
+11:52:40.790 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	4	UnknownDiscipline_9_Category_4
+11:52:40.790 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	5	UnknownDiscipline_9_Category_5
+11:52:40.790 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	6	UnknownDiscipline_9_Category_6
+11:52:40.790 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	7	UnknownDiscipline_9_Category_7
+11:52:40.790 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	8	UnknownDiscipline_9_Category_8
+11:52:40.790 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	9	UnknownDiscipline_9_Category_9
+11:52:40.790 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	10	UnknownDiscipline_9_Category_10
+11:52:40.790 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	11	UnknownDiscipline_9_Category_11
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	12	UnknownDiscipline_9_Category_12
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	13	UnknownDiscipline_9_Category_13
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	14	UnknownDiscipline_9_Category_14
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	15	UnknownDiscipline_9_Category_15
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	16	UnknownDiscipline_9_Category_16
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	17	UnknownDiscipline_9_Category_17
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	18	UnknownDiscipline_9_Category_18
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	19	UnknownDiscipline_9_Category_19
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	20	UnknownDiscipline_9_Category_20
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	21	UnknownDiscipline_9_Category_21
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	22	UnknownDiscipline_9_Category_22
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	23	UnknownDiscipline_9_Category_23
+11:52:40.791 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	24	UnknownDiscipline_9_Category_24
+11:52:40.792 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	25	UnknownDiscipline_9_Category_25
+11:52:40.792 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	26	UnknownDiscipline_9_Category_26
+11:52:40.792 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	27	UnknownDiscipline_9_Category_27
+11:52:40.792 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	28	UnknownDiscipline_9_Category_28
+11:52:40.792 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	29	UnknownDiscipline_9_Category_29
+11:52:40.792 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 9
+9	30	UnknownDiscipline_9_Category_30
+10	0	Waves
+10	1	Currents
+10	2	Ice
+10	3	Surface_Properties
+10	4	Sub_surface_Properties
+11:52:40.792 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 5
+10	5	UnknownCategory_5
+11:52:40.792 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 6
+10	6	UnknownCategory_6
+11:52:40.792 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 7
+10	7	UnknownCategory_7
+11:52:40.792 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 8
+10	8	UnknownCategory_8
+11:52:40.792 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 9
+10	9	UnknownCategory_9
+11:52:40.792 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 10
+10	10	UnknownCategory_10
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 11
+10	11	UnknownCategory_11
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 12
+10	12	UnknownCategory_12
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 13
+10	13	UnknownCategory_13
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 14
+10	14	UnknownCategory_14
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 15
+10	15	UnknownCategory_15
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 16
+10	16	UnknownCategory_16
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 17
+10	17	UnknownCategory_17
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 18
+10	18	UnknownCategory_18
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 19
+10	19	UnknownCategory_19
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 20
+10	20	UnknownCategory_20
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 21
+10	21	UnknownCategory_21
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 22
+10	22	UnknownCategory_22
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 23
+10	23	UnknownCategory_23
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 24
+10	24	UnknownCategory_24
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 25
+10	25	UnknownCategory_25
+11:52:40.793 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 26
+10	26	UnknownCategory_26
+11:52:40.794 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 27
+10	27	UnknownCategory_27
+11:52:40.794 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 28
+10	28	UnknownCategory_28
+11:52:40.794 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 29
+10	29	UnknownCategory_29
+11:52:40.794 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownCategory 30
+10	30	UnknownCategory_30
+### parameters (discipline 0 cat 0-7, discipline 10 cat 0-4)
+0	0	0	Temperature	K
+0	0	1	Virtual_temperature	K
+0	0	2	Potential_temperature	K
+0	0	3	Pseudo-adiabatic_potential_temperature	K
+0	0	4	Maximum_temperature	K
+0	0	5	Minimum_temperature	K
+0	0	6	Dew_point_temperature	K
+0	0	7	Dew_point_depression	K
+0	0	8	Lapse_rate	K.m-1
+0	0	9	Temperature_anomaly	K
+0	0	10	Latent_heat_net_flux	W.m-2
+0	0	11	Sensible_heat_net_flux	W.m-2
+0	0	12	Heat_index	K
+0	0	13	Wind_chill_factor	K
+0	0	14	Minimum_dew_point_depression	K
+0	0	15	Virtual_potential_temperature	K
+0	0	16	Snow_phase_change_heat_flux	W.m-2
+0	0	17	Skin_temperature	K
+0	1	0	Specific_humidity	kg.kg-1
+0	1	1	Relative_humidity	percent
+0	1	2	Humidity_mixing_ratio	kg.kg-1
+0	1	3	Precipitable_water	kg.m-2
+0	1	4	Vapor_pressure	Pa
+0	1	5	Saturation_deficit	Pa
+0	1	6	Evaporation	kg.m-2
+0	1	7	Precipitation_rate	kg.m-2.s-1
+0	1	8	Total_precipitation	kg.m-2
+0	1	9	Large_scale_precipitation	kg.m-2
+0	1	10	Convective_precipitation	kg.m-2
+0	1	11	Snow_depth	m
+0	1	12	Snowfall_rate_water_equivalent	kg.m-2.s-1
+0	1	13	Water_equivalent_of_accumulated_snow_depth	kg.m-2
+0	1	14	Convective_snow	kg.m-2
+0	1	15	Large_scale_snow	kg.m-2
+0	1	16	Snow_melt	kg.m-2
+0	1	17	Snow_age	day
+0	1	18	Absolute_humidity	kg.m-3
+0	1	19	Precipitation_type	
+0	1	20	Integrated_liquid_water	kg.m-2
+0	1	21	Condensate	kg.kg-1
+0	1	22	Cloud_mixing_ratio	kg.kg-1
+0	1	23	Ice_water_mixing_ratio	kg.kg-1
+0	1	24	Rain_mixing_ratio	kg.kg-1
+0	1	25	Snow_mixing_ratio	kg.kg-1
+0	1	26	Horizontal_moisture_convergence	kg.kg-1.s-1
+0	1	27	Maximum_relative_humidity	percent
+0	1	28	Maximum_absolute_humidity	kg.m-3
+0	1	29	Total_snowfall	m
+0	1	30	Precipitable_water_category	
+0	1	31	Hail	m
+0	1	32	Graupel	kg.kg-1
+0	1	33	Categorical_Rain	
+0	1	34	Categorical_Freezing_Rain	
+0	1	35	Categorical_Ice_Pellets	
+0	1	36	Categorical_Snow	
+0	1	37	Convective_Precipitation_Rate	kg.m-2.s-1
+0	1	38	Horizontal_Moisture_Divergence	kg.kg-1.s-1
+0	1	39	Percent_frozen_precipitation	%
+0	1	40	Potential_Evaporation	kg.m-2
+0	2	0	Wind_direction	degrees
+0	2	1	Wind_speed	m.s-1
+0	2	2	U-component_of_wind	m.s-1
+0	2	3	V-component_of_wind	m.s-1
+0	2	4	Stream_function	m2.s-1
+0	2	5	Velocity_potential	m2.s-1
+0	2	6	Montgomery_stream_function	m2.s-2
+0	2	7	Sigma_coordinate_vertical_velocity	s-1
+0	2	8	Vertical_velocity	Pa.s-1
+0	2	9	Vertical_velocity	m.s-1
+0	2	10	Absolute_vorticity	s-1
+0	2	11	Absolute_divergence	s-1
+0	2	12	Relative_vorticity	s-1
+0	2	13	Relative_divergence	s-1
+0	2	14	Potential_vorticity	K.m2.kg-1.s-1
+0	2	15	Vertical_u-component_shear	s-1
+0	2	16	Vertical_v-component_shear	s-1
+0	2	17	Momentum_flux_u_component	N.m-2
+0	2	18	Momentum_flux_v_component	N.m-2
+0	2	19	Wind_mixing_energy	J
+0	2	20	Boundary_layer_dissipation	W.m-2
+0	2	21	Maximum_wind_speed	m.s-1
+0	2	22	Wind_speed_gust	m.s-1
+0	2	23	U-component_of_wind	m.s-1
+0	2	24	V-component_of_wind	m.s-1
+0	2	25	Vertical_speed_sheer	s-1
+0	2	26	Horizontal_Momentum_Flux	N.m-2
+0	2	27	U-Component_Storm_Motion	m.s-1
+0	2	28	V-Component_Storm_Motion	m.s-1
+0	2	29	Drag_Coefficient	
+0	2	30	Frictional_Velocity	m.s-1
+0	3	0	Pressure	Pa
+0	3	1	Pressure_reduced_to_MSL	Pa
+0	3	2	Pressure_tendency	Pa.s-1
+0	3	3	ICAO_Standard_Atmosphere_Reference_Height	m
+0	3	4	Geopotential	m2.s-2
+0	3	5	Geopotential_height	gpm
+0	3	6	Geometric_height	m
+0	3	7	Standard_deviation_of_height	m
+0	3	8	Pressure_anomaly	Pa
+0	3	9	Geopotential_height_anomaly	gpm
+0	3	10	Density	kg.m-2
+0	3	11	Altimeter_setting	Pa
+0	3	12	Thickness	m
+0	3	13	Pressure_altitude	m
+0	3	14	Density_altitude	m
+0	3	15	N5-Wave_Geopotential_Height	gpm
+0	3	16	Zonal_Flux_of_Gravity_Wave_Stress	N.m-2
+0	3	17	Meridional_Flux_of_Gravity_Wave_Stress	N.m-2
+0	3	18	Planetary_Boundary_Layer_Height	m
+0	3	19	N5-Wave_Geopotential_Height_Anomaly	gpm
+0	3	20	Standard_deviation_of_sub_grid_scale_orography	m
+0	3	21	Angle_of_sub_grid_scale_orography	Rad
+0	3	22	Slope_of_sub_grid_scale_orography	
+0	3	23	Gravity_of_sub_grid_scale_orography	W.m-2
+0	3	24	Anisotropy_of_sub_grid_scale_orography	
+0	4	0	Net_short-wave_radiation_flux	W.m-2
+0	4	1	Net_short-wave_radiation_flux	W.m-2
+0	4	2	Short_wave_radiation_flux	W.m-2
+0	4	3	Global_radiation_flux	W.m-2
+0	4	4	Brightness_temperature	K
+0	4	5	Radiance	W.m-1.sr-1
+0	4	6	Radiance	W.m-3.sr-1
+0	4	7	Downward_Short-Wave_Rad_Flux	W.m-2
+0	4	8	Upward_Short-Wave_Rad_Flux	W.m-2
+0	4	9	Net_short_wave_radiation_flux	W.m-2
+0	4	10	Photosynthetically_active_radiation	W.m-2
+0	4	11	Net_short_wave_radiation_flux_clear_sky	W.m-2
+0	4	12	Downward_UV_radiation	W.m-2
+0	5	0	Net_long_wave_radiation_flux	W.m-2
+0	5	1	Net_long_wave_radiation_flux	W.m-2
+0	5	2	Long_wave_radiation_flux	W.m-2
+0	5	3	Downward_Long-Wave_Rad_Flux	W.m-2
+0	5	4	Upward_Long-Wave_Rad_Flux	W.m-2
+0	5	5	Net_long_wave_radiation_flux	W.m-2
+0	5	6	Net_long_wave_radiation_flux_clear_sky	W.m-2
+0	6	0	Cloud_Ice	kg.m-2
+0	6	1	Total_cloud_cover	percent
+0	6	2	Convective_cloud_cover	percent
+0	6	3	Low_cloud_cover	percent
+0	6	4	Medium_cloud_cover	percent
+0	6	5	High_cloud_cover	percent
+0	6	6	Cloud_water	kg.m-2
+0	6	7	Cloud_amount	percent
+0	6	8	Cloud_type	
+0	6	9	Thunderstorm_maximum_tops	m
+0	6	10	Thunderstorm_coverage	
+0	6	11	Cloud_base	m
+0	6	12	Cloud_top	m
+0	6	13	Ceiling	m
+0	6	14	Non-Convective_Cloud_Cover	%
+0	6	15	Cloud_Work_Function	J.kg-1
+0	6	16	Convective_Cloud_Efficiency	
+0	6	17	Total_Condensate	kg.kg-1
+0	6	18	Total_Column-Integrated_Cloud_Water	kg.m-2
+0	6	19	Total_Column-Integrated_Cloud_Ice	kg.m-2
+0	6	20	Total_Column-Integrated_Condensate	kg.m-2
+0	6	21	Ice_fraction_of_total_condensate	
+0	6	22	Cloud_cover	%
+0	6	23	Cloud_ice_mixing_ratio	kg.kg-1
+0	6	24	Sunshine	
+0	6	25	Horizontal_extent_of_cumulonimbus	percent
+0	7	0	Parcel_lifted_index	K
+0	7	1	Best_lifted_index	K
+0	7	2	K_index	K
+0	7	3	KO_index	K
+0	7	4	Total_totals_index	K
+0	7	5	Sweat_index	
+0	7	6	Convective_available_potential_energy	J.kg-1
+0	7	7	Convective_inhibition	J.kg-1
+0	7	8	Storm_relative_helicity	J.kg-1
+0	7	9	Energy_helicity_index	
+0	7	10	Surface_Lifted_Index	K
+0	7	11	Best_lifted_index	K
+0	7	12	Richardson_Number	
+10	0	0	Wave_spectra_1	
+10	0	1	Wave_spectra_2	
+10	0	2	Wave_spectra_3	
+10	0	3	Significant_height_of_combined_wind_waves_and_swell	m
+10	0	4	Direction_of_wind_waves	degrees
+10	0	5	Significant_height_of_wind_waves	m
+10	0	6	Mean_period_of_wind_waves	s
+10	0	7	Direction_of_swell_waves	degrees
+10	0	8	Significant_height_of_swell_waves	m
+10	0	9	Mean_period_of_swell_waves	s
+10	0	10	Primary_wave_direction	degrees
+10	0	11	Primary_wave_mean_period	s
+10	0	12	Secondary_wave_direction	degrees
+10	0	13	Secondary_wave_mean_period	s
+10	1	0	Current_direction	degrees
+10	1	1	Current_speed	m.s-1
+10	1	2	U_component_of_current	m.s-1
+10	1	3	V_component_of_current	m.s-1
+10	2	0	Ice_cover	
+10	2	1	Ice_thickness	m
+10	2	2	Direction_of_ice_drift	degrees
+10	2	3	Speed_of_ice_drift	m.s-1
+10	2	4	U_component_of_ice_drift	m.s-1
+10	2	5	V_component_of_ice_drift	m.s-1
+10	2	6	Ice_growth_rate	m.s-1
+10	2	7	Ice_divergence	s-1
+10	2	8	Ice_temperature	K
+10	3	0	Water_temperature	K
+10	3	1	Deviation_of_sea_level_from_mean	m
+10	4	0	Main_thermocline_depth	m
+10	4	1	Main_thermocline_anomaly	m
+10	4	2	Transient_thermocline_depth	m
+10	4	3	Salinity	kg.kg-1
+10	4	4	Meridional_overturning_circulation	m3.s

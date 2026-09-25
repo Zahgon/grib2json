@@ -1,0 +1,32 @@
+[package]
+name = "grib2json"
+version = "0.8.0"
+edition = "2021"
+rust-version = "1.74"
+description = "GRIB to JSON converter"
+authors = ["Cameron Beccario <cambecc@nullschool.net>"]
+license = "MIT"
+repository = "https://github.com/cambecc/grib2json"
+readme = "README.md"
+
+# Deliberately zero dependencies.
+#
+# The Java original pulls javax.json, jewelcli, joda-time, slf4j/logback and
+# edu.ucar:grib. Every one of those is observable in the output: the JSON
+# generator decides the exact whitespace, jewelcli decides the exact --help
+# text and the exact message on a bad argument, joda decides the refTime
+# string. Reaching for serde_json / clap / chrono here would have produced a
+# program that is *similar* rather than *identical*, and the differences would
+# be silent. Each is reimplemented to the behaviour measured from the Java
+# build -- see MIGRATION.md for the captures.
+
+[[bin]]
+name = "grib2json"
+path = "src/main.rs"
+
+[lib]
+name = "grib2json"
+path = "src/lib.rs"
+
+[profile.release]
+opt-level = 3
